@@ -2,7 +2,7 @@
   "basics": {
     "name": "Eaggon Lee",
     "label": "Student",
-    "picture": "https://eaggon.github.io/template/images/face.jpg",
+    "picture": "https://eaggon.github.io/images/face.jpg",
     "email": "eaggon@hawaii.edu",
     "phone": "(808)494-4287",
     "website": "https://eaggon.github.io",
@@ -23,7 +23,7 @@
       {
         "network": "instagram",
         "username": "eaggonlee",
-        "url": "http://instagram.com/eaggon"
+        "url": "http://instagram.com/eaggonlee"
       }
     ]
   },

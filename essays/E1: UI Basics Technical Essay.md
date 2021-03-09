@@ -6,7 +6,6 @@ title: E1: UI Basics Technical Essay
 date: 2021-03-09
 labels:
   - Essay
-  - 
 ---
 
 BH1

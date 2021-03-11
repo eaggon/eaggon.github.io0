@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basics Technical Essay
+title: UI Basics Essay
 # All dates must be YYYY-MM-DD format!
-date: 2021-03-09
+date: 2021-03-10
 labels:
   - Essay
 ---

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E6: Evaluation Guidelines and Class Retrospective BLOG
+title: Evaluation Guidelines and Class Retrospective BLOG
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-16
 labels:

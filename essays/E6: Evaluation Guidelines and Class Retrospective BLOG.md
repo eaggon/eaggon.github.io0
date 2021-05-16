@@ -50,7 +50,9 @@ Respect the material. I admit that I didn’t and I definitely could change that
 
 <strong>11. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</strong>
 
-Thinking – 20% / Writing – 20% / Testing & Debug – 60%
+Thinking – 20%
+Writing – 20%
+Testing & Debug – 60%
 
 <strong>12. Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)</strong>
 

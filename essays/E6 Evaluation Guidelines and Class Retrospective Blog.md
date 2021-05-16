@@ -53,3 +53,5 @@ Thinking – 20% / Writing – 20% / Testing & Debug – 60%
 ## Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
 
 Technically it was 100% me but if I’m really being honest, it was a lot of Professor Port’s instruction, screencasts, classmate examples, and the internet in general.
+
+test

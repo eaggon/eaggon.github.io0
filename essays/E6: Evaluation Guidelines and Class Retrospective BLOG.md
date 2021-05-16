@@ -9,7 +9,7 @@ labels:
 ---
 
 <strong>1. Briefly describe your system (e.g. A store selling Pokemon game cards)</strong>
-  
+
 My system is a store that sells candy/sweets related art.
 
 <strong>2. Any notable shortcomings, bugs, problems, or additional features not implemented?</strong>

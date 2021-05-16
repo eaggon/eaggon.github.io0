@@ -20,6 +20,8 @@ I am honestly just proud that I was able to get it to do what I wanted to even j
 
 ## Describe what you are least happy with your system:
 
+UPDATE: The class server doesn't have bcrypt
+
 As I mentioned prior, I cannot get it to serve anything because it just stays stopped instead of online and I do not know what the problem is.
 
 ## How was developing this assignment different than assignment #2?

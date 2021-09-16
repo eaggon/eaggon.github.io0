@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Introducing Myself
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-18
+date: 2021-08-31
 labels:
   - Introduction
 ---

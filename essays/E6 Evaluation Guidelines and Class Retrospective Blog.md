@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E6 Evaluation Guidelines and Class Retrospective Blog
-date: 2021-05-16
+date: 2021-12-14
 labels: Assignment3, Essay
 ---
 

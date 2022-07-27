@@ -40,13 +40,16 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "MIS, HRM, MGT (expected Fall, 2023)",
-      "studyType": "B.S.",
+      "studyType": "B.B.A.",
       "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "3.5",
-      "courses": [
-      ]
-    }
+      "endDate": "Present"
+     }
+    {
+      "institution": "United States Army Defense Information School",
+      "area": "Basic Combat Correspondent",
+      "startDate": "2013-09-01",
+      "endDate": "Present"
+     }
   ],
   "work": [
     {

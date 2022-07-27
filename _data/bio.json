@@ -6,7 +6,7 @@
     "email": "eaggon@hawaii.edu",
     "phone": "(808)494-4287",
     "website": "https://eaggon.github.io",
-    "summary": "I am studying for a B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.A. in Management Information Systems, Human Resource Management, and Managment at the University of Hawaii at Manoa. I expect to graduate in Fall, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,11 +39,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS (expected Spring, 2022)",
+      "area": "MIS, HRM, MGT (expected Fall, 2023)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": [
       ]
     }
@@ -52,21 +52,12 @@
     {
       "company": "United States Army",
       "position": "Various",
-      "website": "",
       "startDate": "2002-08-01",
       "endDate": "2014-12-31",
       "summary": "Summary",
       "highlights": [
         "More stuff here"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Medal Name",
-      "date": "Date",
-      "awarder": "Awarder",
-      "summary": "Summary."
     }
   ],
   "references": [
